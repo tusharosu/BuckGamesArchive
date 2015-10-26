@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><FindProductsResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2014-11-25T06:28:41.340Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E901_CORE_APILW2_17292399_R1</Build>
+   <Version>901</Version>
+   <ApproximatePages>1</ApproximatePages>
+   <MoreResults>false</MoreResults>
+   <ItemArray>
+    <Item>
+     <ItemID>321586565764</ItemID>
+     <EndTime>2014-11-25T16:47:19.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-Playstation-3-ps3-ps-3-/321586565764</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3215865657648080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>23</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">11.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>PT10H18M38S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) Playstation 3 ps3 ps 3</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.99</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.99</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>181589560998</ItemID>
+     <EndTime>2014-11-25T23:29:55.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/181589560998</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1815895609988080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>PT17H1M14S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>321590639668</ItemID>
+     <EndTime>2014-11-26T00:11:22.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-SLIGHTLY-USED-/321590639668</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3215906396688080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>19</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">12.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>PT17H42M41S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) SLIGHTLY USED</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">6.1</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">6.1</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>131354035582</ItemID>
+     <EndTime>2014-11-26T04:24:26.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/131354035582</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1313540355828080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>2</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">11.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>PT21H55M45S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>151483232166</ItemID>
+     <EndTime>2014-11-26T21:24:02.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-/151483232166</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1514832321668080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>10</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">7.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P1DT14H55M21S</TimeLeft>
+     <Title>FIFA 14  Sony Playstation 3</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">3.58</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">3.58</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>301402053640</ItemID>
+     <EndTime>2014-11-26T21:24:13.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/301402053640</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3014020536408080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P1DT14H55M32S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>301403035969</ItemID>
+     <EndTime>2014-11-27T14:57:37.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/301403035969</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/3014030359698080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>3</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">10.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P2DT8H28M56S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>301403131012</ItemID>
+     <EndTime>2014-11-27T16:28:19.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/301403131012</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3014031310128080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>1</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">9.5</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P2DT9H59M38S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>121493422713</ItemID>
+     <BuyItNowAvailable>true</BuyItNowAvailable>
+     <ConvertedBuyItNowPrice currencyID="USD">26.0</ConvertedBuyItNowPrice>
+     <EndTime>2014-11-28T02:31:02.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/121493422713</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/1214934227138080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">20.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P2DT20H2M21S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>390985296077</ItemID>
+     <EndTime>2014-11-28T04:30:33.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/390985296077</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/3909852960778080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>15</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">8.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P2DT22H1M52S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.01</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.01</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>390981732112</ItemID>
+     <EndTime>2014-11-28T16:31:48.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-SONY-PLAYSTATION-3-PS3-GAME-COMPLETE-/390981732112</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3909817321128080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">24.9</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P3DT10H3M7S</TimeLeft>
+     <Title>FIFA 14 SONY PLAYSTATION 3 PS3 GAME COMPLETE</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>381061259662</ItemID>
+     <EndTime>2014-11-28T18:15:44.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/381061259662</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/3810612596628080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">8.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P3DT11H47M3S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">3.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">3.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>171552693304</ItemID>
+     <EndTime>2014-11-29T15:33:51.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-No-international-Shipping-/171552693304</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/1715526933048080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>9</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">1.75</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P4DT9H5M10S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) No international Shipping</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">3.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">3.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>261671966728</ItemID>
+     <BuyItNowAvailable>true</BuyItNowAvailable>
+     <ConvertedBuyItNowPrice currencyID="USD">24.99</ConvertedBuyItNowPrice>
+     <EndTime>2014-11-29T16:36:41.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/261671966728</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/2616719667288080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">14.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P4DT10H8M</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingType>Calculated</ShippingType>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>321480015793</ItemID>
+     <EndTime>2014-11-29T18:27:30.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-PS3-COMPLETE-/321480015793</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/3214800157938080_3.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>7</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">21.56</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P4DT11H58M49S</TimeLeft>
+     <Title>FIFA 14 PS3 COMPLETE</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>271652604040</ItemID>
+     <EndTime>2014-11-29T23:16:22.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/271652604040</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/2716526040408080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">30.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P4DT16H47M41S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>141482140318</ItemID>
+     <EndTime>2014-11-30T15:14:06.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/141482140318</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1414821403188080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">39.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P5DT8H45M25S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">35.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">35.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>261673167781</ItemID>
+     <BuyItNowAvailable>true</BuyItNowAvailable>
+     <ConvertedBuyItNowPrice currencyID="USD">25.0</ConvertedBuyItNowPrice>
+     <EndTime>2014-11-30T16:13:34.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/261673167781</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/2616731677818080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">18.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P5DT9H44M53S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>271681248433</ItemID>
+     <EndTime>2014-11-30T18:32:03.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-PS3-/271681248433</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/2716812484338080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">0.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P5DT12H3M22S</TimeLeft>
+     <Title>FIFA 14 for PS3</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>251731748318</ItemID>
+     <EndTime>2014-12-02T00:33:25.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/251731748318</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/2517317483188080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">20.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P6DT18H4M44S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>261675294560</ItemID>
+     <EndTime>2014-12-02T04:02:22.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/261675294560</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/2616752945608080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">10.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P6DT21H33M41S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>171486523832</ItemID>
+     <EndTime>2014-12-03T19:55:02.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/171486523832</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/1714865238328080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">30.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P8DT13H26M21S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">4.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">4.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>331366534603</ItemID>
+     <EndTime>2014-12-04T01:44:15.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-COMPLETE-/331366534603</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs4.ebaystatic.com/pict/3313665346038080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">23.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P8DT19H15M34S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) COMPLETE!</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>271681930417</ItemID>
+     <BuyItNowAvailable>true</BuyItNowAvailable>
+     <ConvertedBuyItNowPrice currencyID="USD">22.0</ConvertedBuyItNowPrice>
+     <EndTime>2014-12-04T05:14:53.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/271681930417</ViewItemURLForNaturalSearch>
+     <ListingType>Chinese</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/2716819304178080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">14.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P8DT22H46M12S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>251705728446</ItemID>
+     <EndTime>2014-12-05T10:39:20.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-TESTED-COMPLETE-/251705728446</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/2517057284468080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">26.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P10DT4H10M39S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) TESTED &amp; COMPLETE</Title>
+     <ShippingCostSummary>
+      <ShippingType>Calculated</ShippingType>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>201212274583</ItemID>
+     <EndTime>2014-12-07T04:41:08.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/201212274583</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs4.ebaystatic.com/pict/2012122745838080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">34.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P11DT22H12M27S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>171538733582</ItemID>
+     <EndTime>2014-12-11T15:05:49.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/171538733582</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1715387335828080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>5</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">22.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P16DT8H37M8S</TimeLeft>
+     <Title>FIFA 14 (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>331376443396</ItemID>
+     <EndTime>2014-12-11T17:09:36.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-New-Sealed-Free-Shipping-/331376443396</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/3313764433968080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">32.9</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P16DT10H40M55S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) New / Sealed / Free Shipping </Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>271665899465</ItemID>
+     <EndTime>2014-12-11T17:56:57.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/271665899465</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/2716658994658080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">20.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P16DT11H28M16S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>321522055755</ItemID>
+     <EndTime>2014-12-12T19:23:28.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-PS3-BRAND-NEW-/321522055755</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs4.ebaystatic.com/pict/3215220557558080_2.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">32.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P17DT12H54M47S</TimeLeft>
+     <Title>FIFA 14 PS3 BRAND NEW</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>251716929759</ItemID>
+     <EndTime>2014-12-13T04:14:21.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-COMPLETE-NEAR-MINT-FAST-SHIPPING-/251716929759</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs4.ebaystatic.com/pict/2517169297598080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">24.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P17DT21H45M40S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) COMPLETE &amp; NEAR MINT ~ FAST SHIPPING</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>161454142050</ItemID>
+     <EndTime>2014-12-16T15:48:17.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/161454142050</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1614541420508080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P21DT9H19M36S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.68</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.68</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>261665866680</ItemID>
+     <EndTime>2014-12-17T17:32:40.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/261665866680</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/2616658666808080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">34.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P22DT11H3M59S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>400791482481</ItemID>
+     <EndTime>2014-12-18T13:45:09.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-PS3-DISC-ONLY-/400791482481</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/4007914824818080_2.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">30.72</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P23DT7H16M28S</TimeLeft>
+     <Title>FIFA 14 PS3 DISC ONLY</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>111522258825</ItemID>
+     <EndTime>2014-12-19T23:15:12.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/111522258825</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/1115222588258080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P24DT16H46M31S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">2.5</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">2.5</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>111491544338</ItemID>
+     <EndTime>2014-12-20T12:41:12.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-/111491544338</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs3.ebaystatic.com/pict/1114915443388080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">30.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P25DT6H12M31S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>231398576348</ItemID>
+     <EndTime>2014-12-21T17:28:11.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-Brand-new-/231398576348</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/2313985763488080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P26DT10H59M30S</TimeLeft>
+     <Title>FIFA 14  (Sony Playstation 3, 2013) Brand new</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>FlatDomesticCalculatedInternational</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>261670954325</ItemID>
+     <EndTime>2014-12-21T20:29:25.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/Playstation-PS3-FIFA-14-Complete-EA-FREE-Domestic-Shipping-/261670954325</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs2.ebaystatic.com/pict/2616709543258080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">22.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P26DT14H44S</TimeLeft>
+     <Title>Playstation PS3 FIFA 14 (Complete) by EA FREE Domestic Shipping</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>131357296423</ItemID>
+     <EndTime>2014-12-22T14:40:08.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-EA-SPORTS-PS3-PLAYSTATION-3-/131357296423</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs4.ebaystatic.com/pict/1313572964238080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">25.0</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P27DT8H11M27S</TimeLeft>
+     <Title>FIFA 14 EA SPORTS PS3 PLAYSTATION 3 </Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">0.0</ShippingServiceCost>
+      <ShippingType>Calculated</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">0.0</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>141385414540</ItemID>
+     <EndTime>2014-12-22T14:54:30.000Z</EndTime>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/Brand-New-Sealed-FIFA-14-Soccer-Game-Sony-PS3-2013-/141385414540</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <GalleryURL>http://thumbs1.ebaystatic.com/pict/1413854145408080_1.jpg</GalleryURL>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>3</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">30.17</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <TimeLeft>P27DT8H25M49S</TimeLeft>
+     <Title>Brand New Sealed FIFA 14 Soccer Game (Sony PS3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">4.44</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="CAD">4.99</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+    <Item>
+     <ItemID>344561937647</ItemID>
+     <BuyItNowAvailable>true</BuyItNowAvailable>
+     <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-Sony-Playstation-3-2013-/344561937647</ViewItemURLForNaturalSearch>
+     <ListingType>FixedPriceItem</ListingType>
+     <PrimaryCategoryID>139973</PrimaryCategoryID>
+     <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+     <BidCount>0</BidCount>
+     <ConvertedCurrentPrice currencyID="USD">27.99</ConvertedCurrentPrice>
+     <ListingStatus>Active</ListingStatus>
+     <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+     <ShippingCostSummary>
+      <ShippingServiceCost currencyID="USD">3.49</ShippingServiceCost>
+      <ShippingType>Flat</ShippingType>
+      <ListedShippingServiceCost currencyID="USD">3.49</ListedShippingServiceCost>
+     </ShippingCostSummary>
+     <ProductID type="Reference">175924644</ProductID>
+    </Item>
+   </ItemArray>
+   <PageNumber>1</PageNumber>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:2350730104:659168844:3810ea39e0987d1126ddb1a0551cfe6e:1:1:1:5000063418007</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">175924644</ProductID>
+    <ItemCount>41</ItemCount>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Platform</Name>
+      <Value>Sony Playstation 3</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Soccer</Value>
+      <Value>Sports</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>2</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/zIwAAOxy-WxTFwbu/$_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+   </Product>
+   <TotalProducts>1</TotalProducts>
+  </FindProductsResponse>

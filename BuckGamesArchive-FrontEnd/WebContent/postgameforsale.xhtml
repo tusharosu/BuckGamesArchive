@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+    <ui:define name="content">
+        <h:form>
+        	<h:outputLabel value="OSU ID: #{postGameBean.logBean.osuID}" />
+            <h:panelGrid columns="2">
+               
+               	<h:outputText value="Name of the used game:"></h:outputText>
+                <h:inputText value="#{postGameBean.gamename}"></h:inputText>
+                
+                <h:outputText value="Developer:"></h:outputText>
+                <h:inputText value="#{postGameBean.developer}"></h:inputText>
+                
+                <h:outputText value="Genre:"></h:outputText>
+                <h:inputText value="#{postGameBean.genre}"></h:inputText>
+                
+                <h:outputText value="Platform:"></h:outputText>
+                <h:inputText value="#{postGameBean.platform}"></h:inputText>
+                
+                <h:outputText value="Price:"></h:outputText>
+                <h:inputText value="#{postGameBean.price}"></h:inputText>
+                
+                <h:outputText value="Year of purchase:"></h:outputText>
+                <h:inputText value="#{postGameBean.yearOfPurchase}"></h:inputText>
+
+				<h:outputText value="Item Quantity:"></h:outputText>
+                <h:inputText value="#{postGameBean.itemQty}"></h:inputText>
+
+            </h:panelGrid>
+            
+            <h:commandButton value="Post" action="#{postGameBean.add}"></h:commandButton>
+            <h:commandButton value="Back" action="back"></h:commandButton>            
+                   
+            
+        </h:form>
+    </ui:define>
+</ui:composition>
+</html>

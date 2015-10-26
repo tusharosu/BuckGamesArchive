@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><GetSingleItemResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2014-11-25T06:28:42.637Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E897_CORE_APILW_17290128_R1</Build>
+   <Version>897</Version>
+   <Item>
+    <ItemID>271681248433</ItemID>
+    <EndTime>2014-11-30T18:32:03.000Z</EndTime>
+    <ViewItemURLForNaturalSearch>http://www.ebay.com/itm/FIFA-14-PS3-/271681248433</ViewItemURLForNaturalSearch>
+    <ListingType>Chinese</ListingType>
+    <Location>Tallahassee, Florida</Location>
+    <GalleryURL>http://thumbs2.ebaystatic.com/pict/2716812484338080_1.jpg</GalleryURL>
+    <PictureURL>http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/zIwAAOxy-WxTFwbu/$_6.JPG?set_id=89040003C1</PictureURL>
+    <PrimaryCategoryID>139973</PrimaryCategoryID>
+    <PrimaryCategoryName>Video Games &amp; Consoles:Video Games</PrimaryCategoryName>
+    <BidCount>0</BidCount>
+    <ConvertedCurrentPrice currencyID="USD">0.99</ConvertedCurrentPrice>
+    <ListingStatus>Active</ListingStatus>
+    <TimeLeft>P5DT12H3M21S</TimeLeft>
+    <Title>FIFA 14 for PS3</Title>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Platform</Name>
+      <Value>Sony Playstation 3</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Game</Name>
+      <Value>FIFA 14</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Publisher</Name>
+      <Value>EA Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Rating</Name>
+      <Value>E - Everyone</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Sports Sub-Genre</Name>
+      <Value>Soccer</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <Country>US</Country>
+    <AutoPay>false</AutoPay>
+   </Item>
+  </GetSingleItemResponse>

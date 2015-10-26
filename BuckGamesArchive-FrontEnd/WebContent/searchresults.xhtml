@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+	<ui:define name="content">
+		<h:form>
+			<h:outputLabel value="Select a game from the list of games"></h:outputLabel>
+			<br />
+			<br />
+			<table border="1">
+				<tr>
+					<th>Name of the game</th>
+					<th>Developer</th>
+					<th>Genre</th>
+					<th>Platform</th>
+					<th>Price</th>
+					<th>URL / Contact info</th>
+				</tr>
+				<tbody>
+					<ui:repeat var="o" value="#{welcomeBean.games}">
+							<tr>
+								<td>#{o[0]}</td>
+								<td>#{o[1]}</td>
+								<td>#{o[2]}</td>
+								<td>#{o[3]}</td>
+								<td>#{o[4]}</td>
+								<td><h:outputLink value="#{o[5]}"> 
+								<h:outputText value="#{o[5]}" />
+								</h:outputLink>
+								</td>
+							</tr>
+					</ui:repeat>
+				</tbody>
+			</table>
+			<h:commandButton value="Back" action="back"></h:commandButton>
+			<h:commandButton value="Logout" action="logout"></h:commandButton>
+
+
+		</h:form>
+	</ui:define>
+</ui:composition>
+</html>

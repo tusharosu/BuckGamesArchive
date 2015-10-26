@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><FindProductsResponse xmlns="urn:ebay:apis:eBLBaseComponents">
+   <Timestamp>2014-11-25T06:28:33.866Z</Timestamp>
+   <Ack>Success</Ack>
+   <Build>E901_CORE_APILW2_17292399_R1</Build>
+   <Version>901</Version>
+   <ApproximatePages>4</ApproximatePages>
+   <MoreResults>true</MoreResults>
+   <PageNumber>1</PageNumber>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:2376222425:666983745:0d848b8e81db5e81223034e3c48685b9:1:1:1:5000057762622</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">170234525</ProductID>
+    <ProductID type="UPC">014633731262</ProductID>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Platform</Name>
+      <Value>Xbox 360</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>24</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/z/NCQAAOxyA7tSWlSV/$(KGrHqFHJE4FJC0l!E,ZBSWlSVdV5!~~_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (Xbox 360, 2013)</Title>
+   </Product>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:4053672905:662302605:c74290a82acd244e97016f80a114d190:1:1:1:5000054934854</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">165736755</ProductID>
+    <ProductID type="UPC">014633730678</ProductID>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>12</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/z/jRMAAOxydlFS14Zv/$_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (Sony PlayStation 4, 2013)</Title>
+   </Product>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:4053672649:661257829:bbe2d48b21c2140d6b17ce8b13c8a543:1:1:1:5000054934844</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">165742469</ProductID>
+    <ProductID type="UPC">014633730463</ProductID>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>8</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/z/7K8AAOxysstSXbQw/$(KGrHqF,!pEFJCsqBDz0BS(bQwTPj!~~_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (Microsoft Xbox One, 2013)</Title>
+   </Product>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:3413699086:658764816:d3330b88d5e000bbd4c013127ccbf028:1:1:1:5000055489882</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">170252786</ProductID>
+    <ProductID type="UPC">014633730401</ProductID>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Soccer</Value>
+      <Value>Sports</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Platform</Name>
+      <Value>PlayStation 3</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>28</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/z/Jw4AAOxyEoFSXFd4/$T2eC16VHJIgFHSOf7bSEBS(Fd3H4s!~~_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (PlayStation 3, 2013)</Title>
+   </Product>
+   <Product>
+    <DomainName>Video Games</DomainName>
+    <DetailsURL>http://syicatalogs.ebay.com/ws/eBayISAPI.dll?PageSyiProductDetails&amp;IncludeAttributes=1&amp;ShowAttributesTable=1&amp;ProductMementoString=117495:2:1051:2350730104:659168844:3810ea39e0987d1126ddb1a0551cfe6e:1:1:1:5000063418007</DetailsURL>
+    <DisplayStockPhotos>true</DisplayStockPhotos>
+    <ProductID type="Reference">175924644</ProductID>
+    <ItemSpecifics>
+     <NameValueList>
+      <Name>Released Year</Name>
+      <Value>2013</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Platform</Name>
+      <Value>Sony Playstation 3</Value>
+     </NameValueList>
+     <NameValueList>
+      <Name>Genre</Name>
+      <Value>Soccer</Value>
+      <Value>Sports</Value>
+     </NameValueList>
+    </ItemSpecifics>
+    <ReviewCount>2</ReviewCount>
+    <StockPhotoURL>http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/zIwAAOxy-WxTFwbu/$_6.JPG?set_id=89040003C1</StockPhotoURL>
+    <Title>FIFA 14  (Sony Playstation 3, 2013)</Title>
+   </Product>
+   <TotalProducts>16</TotalProducts>
+  </FindProductsResponse>

@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:ui="http://java.sun.com/jsf/facelets"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+    <ui:define name="content">
+        <h:form>
+        
+        <h:outputLabel value="You are eligible to use the BuckGamesArchive tool. Please fill out the following fields so we can set up your account."></h:outputLabel><br /><br />
+        
+        <h:panelGrid columns = "2">
+        <h:outputLabel value="OSUID: #{registerBean.osuID}" /><br />
+        <h:outputLabel value="First name:" />
+        <h:inputText id = "fn" value= "#{registerBean.fname}"></h:inputText>
+        <h:outputLabel value="Last name: " />
+        <h:inputText id = "ln" value = "#{registerBean.lname}"></h:inputText>
+        <h:outputLabel value="Email ID: " />
+        <h:inputText id = "email" value = "#{registerBean.email}"></h:inputText>
+        <h:outputLabel value="Phone Number: " />
+        <h:inputText id = "phno" value = "#{registerBean.phoneno}"></h:inputText><br />
+        </h:panelGrid>
+        <h:commandButton value="Register" action="#{registerBean.fillCredentials}"></h:commandButton>
+           
+        </h:form>
+    </ui:define>
+</ui:composition>
+</html>
